@@ -1,4 +1,4 @@
-## 01 Hello World Tutorial 
+## 01 - Hello World Tutorial 
 
 ```
 fn main(){
