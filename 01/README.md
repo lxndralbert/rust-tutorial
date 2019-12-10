@@ -1,13 +1,13 @@
 # 01 - Hello World Tutorial 
 
-Please enter the following commands to compile and run the program: 
+P
 
 ```
 fn main(){
     println!("Hello World!");
 }
 ```
-
+lease enter the following commands to compile and run the program: 
 ```
 $ rustc main.rs
 $ ./main
