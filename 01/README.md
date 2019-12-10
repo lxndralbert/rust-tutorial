@@ -3,12 +3,12 @@
 Please enter the following commands to compile and run the program: 
 
 ```
-$ rustc main.rs
-$ ./main
-```
-
-```
 fn main(){
     println!("Hello World!");
 }
+```
+
+```
+$ rustc main.rs
+$ ./main
 ```
